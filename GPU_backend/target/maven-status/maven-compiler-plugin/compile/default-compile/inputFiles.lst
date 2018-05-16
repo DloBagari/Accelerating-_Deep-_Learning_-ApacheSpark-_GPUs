@@ -1,0 +1,5 @@
+/home/bcri/GPU_backend/src/main/java/Hyperparameters.java
+/home/bcri/GPU_backend/src/main/java/CnnOnSparkGPU.java
+/home/bcri/GPU_backend/src/main/java/RDDsCreator.java
+/home/bcri/GPU_backend/src/main/java/CnnConfiguration.java
+/home/bcri/GPU_backend/src/main/java/PreprocessingData.java

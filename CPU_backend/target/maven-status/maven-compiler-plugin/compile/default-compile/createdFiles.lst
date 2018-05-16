@@ -1,0 +1,4 @@
+CnnConfiguration.class
+Hyperparameters.class
+PreprocessingData.class
+CnnOnSparkCPU.class
